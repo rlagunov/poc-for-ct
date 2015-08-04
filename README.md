@@ -1,3 +1,3 @@
 # poc-for-ct
-Roman Lagunov POC for Anaplan Jenkins Continuous Testing
+Roman Lagunov's POC for Anaplan Jenkins Continuous Testing
 
